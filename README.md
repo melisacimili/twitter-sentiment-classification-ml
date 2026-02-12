@@ -50,5 +50,10 @@ Dataset source: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 Future improvements may include transformer-based architectures (e.g., BERT) and systematic hyperparameter optimization.
 
+### HTML Version
+
+An exported HTML version of the notebook is included for offline viewing. For proper rendering, download and open the file in a web browser.
+
 ## Author
+
 Melisa Ceren Cimili
